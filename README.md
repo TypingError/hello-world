@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+Test repository in the hello-world branch.
+Updated with some text n' that.
